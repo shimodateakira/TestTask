@@ -10,6 +10,7 @@ namespace TestTask
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!");
 
             Console.WriteLine("\n\nPush any key!");
             Console.ReadKey();
